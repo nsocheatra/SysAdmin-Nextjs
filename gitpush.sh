@@ -5,4 +5,4 @@ read message
 git add .
 git commit -m "$message"
 
-git pust origin main
+git push origin main

@@ -36,7 +36,7 @@ export function LoginForm({
                 <Input
                   id="email"
                   type="email"
-                  placeholder="m@example.com"
+                  placeholder="nstra@sysadmin.com"
                   required
                 />
               </Field>
@@ -58,7 +58,7 @@ export function LoginForm({
                   Login with Google
                 </Button>
                 <FieldDescription className="text-center">
-                  Don&apos;t have an account? <a href="#">Sign up</a>
+                  Don&apos;t have an account? <a href="/signup">Sign up</a>
                 </FieldDescription>
               </Field>
             </FieldGroup>
